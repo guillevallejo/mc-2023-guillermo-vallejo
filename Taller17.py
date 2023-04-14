@@ -1,4 +1,5 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
 def exp_regre(x, y):
     log_y = np.log(y)
